@@ -1,11 +1,28 @@
-# Basit Python Projeleri
-Burada, zamanında Python'u öğrenmek adına yapmış olduğum 3 farklı basit proje bulunmaktadır.
+# 🐍 Simple Python Prototypes • Learning Series • (Archived)
 
-## Mail Gönderme Programı
-Bu proje, açılan form ekranında kullanıcıdan Google hesabına giriş bilgilerini girmesini isteyen, sonrasında alıcı bilgisi ve mesaj bilgilerini alarak e-posta gönderen bir programdır.
+<br>
 
-## Televizyon Kumandası Projesi
-Bu proje, kullanıcıdan sürekli girdi alıp çıktı üreterek bir televizyon kumandasının nasıl çalıştığını kurguladığım bir projedir.
+## 📌 Project Overview
+A collection of three simple Python projects developed during my early learning phase.  
+These were the **first codes I wrote** after starting software development, focusing on basic input/output, control structures, and standard library usage.  
+> 📦 Archived — This project is no longer being updated. It’s kept as part of my learning history and serves as a technical reference for future projects.
 
-## Datatype Projesi
-Bu proje, kullanıcıdan sürekli girdi alıp kullanıcının girdiği değeri o veri yapısına özgü olan metodlar ile yönetmesine imkan tanıyan bir projedir.
+<br>
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<br>
+
+## 📜 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
+
+---
+
+© 2025 Yusuf Okan Sirkeci — [Hereetria](https://github.com/Hereetria)
